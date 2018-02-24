@@ -17,7 +17,7 @@ sudo apt-get install libavcodec-dev libswscale-dev
 
 Needed for h264 decoding and resizing.
 
-## WiFi
+## WiFi
 
 Connect to the Z Camera WiFi and adjust the camera IP to `10.98.32.1` in file mainwindow.cpp
 
@@ -28,7 +28,7 @@ Netmask : `255.255.255.0`.
 
 Adjust the IP to `192.168.168.1` in file mainwindow.cpp
 
-## Building
+## Building
 
 Open the project in QtCreator and build.
 Or run :
@@ -64,6 +64,8 @@ Intelligent resizing.
 Add camera settings.
 
 I don't promise at all that I'll do these.
+
+## Contributing
 Feel free to clone and improve this code.
 
 ## Thanks
